@@ -1,0 +1,15 @@
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/bin/Debug/net7.0/Kleidung_Auswahl
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/bin/Debug/net7.0/Kleidung_Auswahl.deps.json
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/bin/Debug/net7.0/Kleidung_Auswahl.runtimeconfig.json
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/bin/Debug/net7.0/Kleidung_Auswahl.dll
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/bin/Debug/net7.0/Kleidung_Auswahl.pdb
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.csproj.AssemblyReference.cache
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.AssemblyInfoInputs.cache
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.AssemblyInfo.cs
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.csproj.CoreCompileInputs.cache
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.dll
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/refint/Kleidung_Auswahl.dll
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.pdb
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/Kleidung_Auswahl.genruntimeconfig.cache
+/Users/kerimakkis/Projects/Kleidung_Auswahl/Kleidung_Auswahl/obj/Debug/net7.0/ref/Kleidung_Auswahl.dll
